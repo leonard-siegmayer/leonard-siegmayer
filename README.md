@@ -1,4 +1,4 @@
-# Hello, I'm [@leonard-siegmayer] 👋
+# Hello, I'm @leonard-siegmayer 👋
 
 ## About Me
 I'm a passionate web programmer with a keen interest in creating dynamic and user-friendly applications. My current endeavor is developing a Japanese learning application utilizing Next.js and Tailwind CSS.
