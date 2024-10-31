@@ -4,7 +4,7 @@
 I'm a passionate web programmer with a keen interest in creating dynamic and user-friendly applications.
 
 ## Current Project
-🌐 **Zenji**: A comprehensive platform designed to make Japanese learning accessible, engaging, and effective. Built with Next.js and Tailwind, it offers possibilities to track the own study progress and create study sets for japanese characters, grammar and vocabulary, which can be shared and studied with a range of study mode. Check out the current version [here](https://zenji.vercel.app/) (Still early in development).
+🌐 **Zenji**: A comprehensive platform designed to make Japanese learning accessible, engaging, and effective. Built with Next.js and Tailwind, it offers possibilities to track the own study progress and create study sets for japanese characters, grammar and vocabulary, which can be shared and studied with a range of study modes. Check out the current version [here](https://zenji.vercel.app/) (Still early in development).
 
 ## Past Projects
 💪 **Gym Exercise Planner**: A Java and JavaFX software that enables gyms to create and manage personalized exercise plans.<br/>
